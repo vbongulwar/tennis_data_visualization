@@ -1,0 +1,7 @@
+year,player1,player2,country1,country2,firstServe1,firstServe2,ace1,ace2,double1,double2,firstPointWon1,firstPointWon2,secPointWon1,secPointWon2,fastServe1(km),fastServe2(km),break1,break2,return1,return2,total1,total2,winner1,winner2,error1,error2,winner,results
+2011,Novak Djokovic,Andy Murray,SRB,GBR,67%,53%,6,6,0,4,70%,64%,60%,31%,208,216,39%,75%,51%,33%,106,78,26,21,33,47,Novak Djokovic,6-4 6-2 6-3
+2012,Novak Djokovic,Rafael Nadal,SRB,ESP,59%,67%,9,10,2,4,68%,66%,63%,45%,202,204,35%,67%,41%,34%,193,176,57,44,69,71,Novak Djokovic,5-7 6-4 6-2 6-7(5) 7-5
+2013,Novak Djokovic,Andy Murray,SRB,GBR,63%,60%,8,7,3,5,75%,81%,66%,46%,209,211,27%,0%,33%,28%,139,126,47,29,61,46,Novak Djokovic,6-7(2) 7-6(3) 6-3 6-2
+2015,Novak Djokovic,Andy Murray,SRB,GBR,60%,65%,8,10,1,3,59%,65%,62%,34%,205,213,56%,42%,46%,40%,136,118,53,41,40,49,Novak Djokovic,7_6(5) 6_7(4) 6_3 6_0
+2016,Novak Djokovic,Andy Murray,SRB,GBR,66%,64%,7,12,3,5,74%,68%,53%,35%,199,213,42%,33%,44%,33%,123,99,31,40,41,65,Novak Djokovic,6_1 7_5 7_6(3)
+2019,Novak Djokovic,Rafael Nadal,SRB,ESP,77%,73%,12,5,2,3,84%,76%,60%,32%,201,200,25%,0%,39%,20%,75,59,34,21,9,28,Novak Djokovic,6-3 6-2 6-2
